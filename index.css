@@ -175,6 +175,31 @@ div#img-6 {
 
 }
 
+div#img-7 {
+    background-image: url(/Para-Katy/imagens/Screenshot\ \(44\).png);
+    height: 100px;
+    width: 95%;
+    max-width: 450px;
+    margin: 40px auto;
+    background-size: cover;
+    border-radius: 10px;
+    background-position: center center;
+
+}
+
+div#img-8 {
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.19.jpeg);
+    height: 600px;
+    width: 95%;
+    max-width: 450px;
+    margin: 40px auto;
+    background-size: cover;
+    border-radius: 10px;
+    background-position: center center;
+
+}
+
+
 
 #audio {
     
