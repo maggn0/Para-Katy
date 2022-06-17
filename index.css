@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: "font-h1" ;
-    src: url(/fontes/Baby\ Lelucky.ttf);
+    src: url(/Para-Katy/fontes/Baby\ Lelucky.ttf);
 }
 
 @font-face {
     font-family: "font-h1-ass";
-    src: url(/fontes/Amalfi\ Coast.ttf);
+    src: url(/Para-Katy/fontes/Amalfi\ Coast.ttf);
 }
 :root {
     --cor-1: #73294C;
@@ -89,7 +89,7 @@ div#img-call{
     height: 100px;
     width: 95%;
     margin: 40px auto;
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 02.44.16.jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 02.44.16.jpeg);
     background-size: cover;
     border-radius: 10px;
     background-position: center center;
@@ -106,7 +106,7 @@ div.img-fotos {
 }
 
 div#img-1 {
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.14.jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.14.jpeg);
     height: 400px;
     width: 95%;
     max-width: 400px;
@@ -117,7 +117,7 @@ div#img-1 {
 }
 
 div#img-2{
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.15.jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.15.jpeg);
     height: 400px;
     width: 95%;
     margin: 40px auto;
@@ -129,7 +129,7 @@ div#img-2{
 }
 
 div#img-3{
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 19.36.10.jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 19.36.10.jpeg);
     height: 750px;
     width: 95%;
     max-width: 450px;
@@ -141,7 +141,7 @@ div#img-3{
 }
 
 div#img-4{
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.16.jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 13.06.16.jpeg);
     height: 400px;
     width: 95%;
     max-width: 450px;
@@ -153,7 +153,7 @@ div#img-4{
 }
 
 div#img-5 {
-    background-image: url(/imagens/Blank\ 4\ Grids\ Collage.png);
+    background-image: url(/Para-Katy/imagens/Blank\ 4\ Grids\ Collage.png);
     height: 400px;
     width: 95%;
     max-width: 450px;
@@ -165,7 +165,7 @@ div#img-5 {
 }
 
 div#img-6 {
-    background-image: url(/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 20.15.49\ \(1\).jpeg);
+    background-image: url(/Para-Katy/imagens/WhatsApp\ Image\ 2022-06-16\ at\ 20.15.49\ \(1\).jpeg);
     height: 400px;
     width: 95%;
     max-width: 450px;
