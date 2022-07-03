@@ -40,9 +40,11 @@ body{
 
 header{
     width: 100%;
+    max-width: 800px;
     font-family: "font-h1";
     font-size: 6vw;
     text-align: center;
+    margin: 0 auto;
 }
 
 .barra {
@@ -56,6 +58,7 @@ header{
 
 main {
     width: 80%;
+    max-width: 400px;
     margin: 50px auto;
     
 }
